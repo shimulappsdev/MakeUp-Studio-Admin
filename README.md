@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <b>Home Page</b>
+  <b>Add MakeUp Items & Add Popular MakeUp</b>
   <br><br>
   <img src="https://user-images.githubusercontent.com/118614364/227853048-b7296c8d-c118-410c-8d9d-82450f30b77d.png" width="250" height = "500" >
   <img src="https://user-images.githubusercontent.com/118614364/227853049-92d8c856-ca1c-4b0f-af3d-7f46d3c50572.png" width="250" height = "500">
