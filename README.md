@@ -35,14 +35,14 @@
 </p>
 
 <p align="center">
-  <b>Home Page</b>
+  <b>Update MakeUp Product and Add Popular Brands Page</b>
   <br><br>
   <img src="https://user-images.githubusercontent.com/118614364/227853067-006fd3f9-6b21-4fb4-9a94-dc254e65c9ed.png" width="250" height = "500" >
   <img src="https://user-images.githubusercontent.com/118614364/227853076-761d4673-e6af-49f7-9a49-1c0b34c563fa.png" width="250" height = "500">
 </p>
 
 <p align="center">
-  <b>Home Page</b>
+  <b>Popular Brands Update Page</b>
   <br><br>
   <img src="https://user-images.githubusercontent.com/118614364/227853085-74de97bb-429e-42d8-9110-4cbcd5ae0e47.png" width="250" height = "500" >
 </p>
