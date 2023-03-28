@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <b>Home Page</b>
+  <b>Dashboard & Add Slider Page</b>
   <br><br>
   <img src="https://user-images.githubusercontent.com/118614364/227853024-8e9f8ee0-373c-423a-93b9-54308ed8aea7.png" width="250" height = "500" >
   <img src="https://user-images.githubusercontent.com/118614364/227853028-a498cea8-916e-4247-a34e-3e61d03debbb.png" width="250" height = "500">
