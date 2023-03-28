@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <b>Home Page</b>
+  <b>Add Category & Item List of Each Category</b>
   <br><br>
   <img src="https://user-images.githubusercontent.com/118614364/227853033-500bd665-9c7f-44a1-9ce9-c6bb92441087.png" width="250" height = "500" >
   <img src="https://user-images.githubusercontent.com/118614364/227853043-b50b79da-8dd4-4015-902a-8aa6b55416d2.png" width="250" height = "500">
