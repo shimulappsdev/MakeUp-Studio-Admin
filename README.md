@@ -1,7 +1,6 @@
 # MakeUp-Studio-Admin
-#Register & Log In Pages
 <p align="center">
-  
+  <b>Home Page</b>
   <br><br>
   <img src="https://user-images.githubusercontent.com/118614364/227853014-a2568e64-05d8-4e5a-81b6-4f115145a641.png" width="250" height = "500" >
   <img src="https://user-images.githubusercontent.com/118614364/227853017-02b8240f-8735-4cfc-a7dc-03dfa986f54b.png" width="250" height = "500">
